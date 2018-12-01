@@ -7,7 +7,7 @@ package testproject_selenium;
 
 /**
  *
- * @author 000403596
+ * @author 000734787
  */
 public class TestProject_Selenium {
 
